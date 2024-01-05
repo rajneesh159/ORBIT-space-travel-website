@@ -1,6 +1,4 @@
-Certainly! Below is a simple template for a README file that you can use for your ORBIT space travel website GitHub page:
 
-```markdown
 # ORBIT Space Travel Website
 
 Welcome to the ORBIT Space Travel Website, created by Rajneesh Kumar Verma.
@@ -37,9 +35,7 @@ If you would like to contribute to the development of the ORBIT Space Travel Web
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-Special thanks to [OpenAI](https://www.openai.com/) for providing the tools and technologies that made this project possible.
 
 ```
 
